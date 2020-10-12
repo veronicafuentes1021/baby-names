@@ -31,7 +31,7 @@ Suggested milestones for incremental development:
  - Fix main() to use the extracted_names list
 """
 
-__author__ = "Veronica Fuentes"
+__author__ = "Veronica Fuentes and Daniel Lomelino"
 
 
 import sys
